@@ -3,7 +3,7 @@ My Solutions to Learn Redux
 
 1. [App Layout and Component Setup](https://github.com/ijlee2/Learn-Redux/tree/master/01%20-%20App%20Layout%20and%20Component%20Setup)
 2. [PhotoGrid and Single Components](https://github.com/ijlee2/Learn-Redux/tree/master/02%20-%20PhotoGrid%20and%20Single%20Components)
-3. React Router
+3. [Setting Up React Router](https://github.com/ijlee2/Learn-Redux/tree/master/03%20-%20Setting%20Up%20React%20Router)
 4. Redux Store
 5. Redux Actions
 6. Redux Reducers
