@@ -1,5 +1,5 @@
-# Learn-Redux
-My Solutions to [Learn Redux](https://learnredux.com/)
+# Learn Redux
+My solutions to [Learn Redux](https://learnredux.com/)
 
 1. [App Layout and Component Setup](https://github.com/ijlee2/Learn-Redux/tree/master/01%20-%20App%20Layout%20and%20Component%20Setup/)
 2. [PhotoGrid and Single Components](https://github.com/ijlee2/Learn-Redux/tree/master/02%20-%20PhotoGrid%20and%20Single%20Components/)
