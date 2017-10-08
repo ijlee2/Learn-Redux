@@ -12,7 +12,7 @@ My solutions to [Learn Redux](https://learnredux.com/)
 9. [Displaying State](https://github.com/ijlee2/Learn-Redux/tree/master/09%20-%20Displaying%20State/)
 10. [Updating State](https://github.com/ijlee2/Learn-Redux/tree/master/10%20-%20Updating%20State/)
 11. [Displaying Single Photo Component](https://github.com/ijlee2/Learn-Redux/tree/master/11%20-%20Displaying%20Single%20Photo%20Component/)
-12. Displaying Comments
+12. [Displaying Comments](https://github.com/ijlee2/Learn-Redux/tree/master/12%20-%20Displaying%20Comments/)
 13. Updating Comments
 14. Redux Reducer Composition
 15. Error Tracking and Insights with Sentry
