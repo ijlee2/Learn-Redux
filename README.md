@@ -15,6 +15,6 @@ My solutions to [Learn Redux](https://learnredux.com/)
 12. [Displaying Comments](https://github.com/ijlee2/Learn-Redux/tree/master/12%20-%20Displaying%20Comments/)
 13. [Updating Comments](https://github.com/ijlee2/Learn-Redux/tree/master/13%20-%20Updating%20Comments/)
 14. [Reducer Composition](https://github.com/ijlee2/Learn-Redux/tree/master/14%20-%20Reducer%20Composition/)
-15. Error Tracking and Insights with Sentry
+15. [Error Tracking with Sentry](https://github.com/ijlee2/Learn-Redux/tree/master/15%20-%20Error%20Tracking%20with%20Sentry/)
 16. Hot Reloading with Webpack
 17. Learning Redux Dev Tools
