@@ -10,7 +10,7 @@ My solutions to [Learn Redux](https://learnredux.com/)
 7. [Integrating Store with React Router](https://github.com/ijlee2/Learn-Redux/tree/master/07%20-%20Integrating%20Store%20with%20React%20Router/)
 8. [Accessing Dispatch and State](https://github.com/ijlee2/Learn-Redux/tree/master/08%20-%20Accessing%20Dispatch%20and%20State/)
 9. [Displaying State](https://github.com/ijlee2/Learn-Redux/tree/master/09%20-%20Displaying%20State/)
-10. Updating State
+10. [Updating State](https://github.com/ijlee2/Learn-Redux/tree/master/10%20-%20Updating%20State/)
 11. Displaying Single Photo Component
 12. Displaying Comments
 13. Updating Comments
