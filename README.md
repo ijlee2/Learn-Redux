@@ -11,7 +11,7 @@ My solutions to [Learn Redux](https://learnredux.com/)
 8. [Accessing Dispatch and State](https://github.com/ijlee2/Learn-Redux/tree/master/08%20-%20Accessing%20Dispatch%20and%20State/)
 9. [Displaying State](https://github.com/ijlee2/Learn-Redux/tree/master/09%20-%20Displaying%20State/)
 10. [Updating State](https://github.com/ijlee2/Learn-Redux/tree/master/10%20-%20Updating%20State/)
-11. Displaying Single Photo Component
+11. [Displaying Single Photo Component](https://github.com/ijlee2/Learn-Redux/tree/master/11%20-%20Displaying%20Single%20Photo%20Component/)
 12. Displaying Comments
 13. Updating Comments
 14. Redux Reducer Composition
