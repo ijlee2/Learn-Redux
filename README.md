@@ -13,7 +13,7 @@ My solutions to [Learn Redux](https://learnredux.com/)
 10. [Updating State](https://github.com/ijlee2/Learn-Redux/tree/master/10%20-%20Updating%20State/)
 11. [Displaying Single Photo Component](https://github.com/ijlee2/Learn-Redux/tree/master/11%20-%20Displaying%20Single%20Photo%20Component/)
 12. [Displaying Comments](https://github.com/ijlee2/Learn-Redux/tree/master/12%20-%20Displaying%20Comments/)
-13. Updating Comments
+13. [Updating Comments](https://github.com/ijlee2/Learn-Redux/tree/master/13%20-%20Updating%20Comments/)
 14. Redux Reducer Composition
 15. Error Tracking and Insights with Sentry
 16. Hot Reloading with Webpack
